@@ -16,8 +16,7 @@ I wish I could develop one too!
 If you have any amazing News or knowledge about AIs in science, I would really appreciate to get one!! 😍  
 
 ### How to reach me:
-Please feel free to contact me via [Email](mailto:briank9447@gmail.com)!
-
+Please feel free to contact me via [Email](mailto:briank9447@gmail.com), or Personal [Blog](https://blog.naver.com/soo0sleepy) (Korean)!
 <!--
 **Juicyburger1250/Juicyburger1250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
