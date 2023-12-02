@@ -1,13 +1,19 @@
 ## Hi there 👋
 
 ### I'm..
-Science **GEEK** who loves biochemistry
+Science **GEEK** who's interested in biochemistry.  
 
 ### What I Do:  
 🌏  translations (ENG-KOR)  
 🎮  gaming  
 🧪 SCIENCE  
-🖥️ programing (C)  
+🖥️ programing (C, just some *basic* stuffs)  
+
+### 🔭 I’m currently learning on ...
+[GNoME](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/) is an AI tool developed by Google Deepmind, which finds lots of different materials.  
+Just as GNoME, AIs will play amazing roles in science.  
+I wish I could develop one too!  
+If you have any amazing News or knowledge about AIs in science, I would really appreciate to get one!! 😍  
 
 ### How to reach me:
 Please feel free to contact me via [Email](mailto:briank9447@gmail.com)!
